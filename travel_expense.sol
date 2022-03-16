@@ -23,7 +23,7 @@ contract TravelExpenses {
   uint16 expenses_count = 0;
 
   // 8. Create an unsigned `32 bit` integer `eth_usd_rate` and assign the current value in USD of `1 ETH` to it.
-  uint32 eth_usd_rate = 143;
+  uint32 eth_usd_rate = 2720;
 
   // 9. Create a `256` unsigned integer constant `eth_wei_rate` and assign the number of Wei in one Ether.
   uint256 constant eth_wei_rate = 1000000000000000000;
