@@ -25,4 +25,4 @@ In this Project, I completed the code that enables their Kiti-zens to send crypt
 
  Below is an image of the first block of the Keffie Token beign established on the Binance Smart Chain Test Net. 
  
- ![An Image of KFT transaction on Binance Smart Chain Test Net.](Keffie_Token_Blockexpelorer.png)
+ ![An Image of KFT transaction on Binance Smart Chain Test Net.](Keffie_Token_Blockexpelorer.jpg)
