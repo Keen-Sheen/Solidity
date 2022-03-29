@@ -20,3 +20,9 @@ In this Project, I completed the code that enables their Kiti-zens to send crypt
 *  Keffie Token Contract: 0xf0285718579DfF12A4353ABFedF5784ff0e61EBA
 *  Testnet Faucet: https://testnet.binance.org/faucet-smart
 *  Pancake Swap Testnet: https://pancake.kiemtienonline360.com/#/swap
+
+## Binance Smart Chain Test Net
+
+ Below is an image of the first block of the Keffie Token beign established on the Binance Smart Chain Test Net. 
+ 
+ ![An Image of KFT transaction on Binance Smart Chain Test Net.](Keffie_Token_Blockexpelorer.png)
