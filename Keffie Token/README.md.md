@@ -13,3 +13,11 @@ In this Project, I completed the code that enables their Kiti-zens to send crypt
    2% fee auto distribute to all holders
    I created a black hole so #KFT token will deflate itself in supply with every transaction
    50% Supply is burned at start.
+   
+  ## Custom RPC Instructions
+  Network Name: BSC Testnet
+New RPC URL : https://data-seed-prebsc-1-s1.binance.org:8545/ Currency Symbol : tBNB
+Keffie Token Contract: 0xf0285718579DfF12A4353ABFedF5784ff0e61EBA
+Testnet Faucet: https://testnet.binance.org/faucet-smart
+Pancake Swap Testnet: https://pancake.kiemtienonline360.com/#/swap
+Enjoy!
