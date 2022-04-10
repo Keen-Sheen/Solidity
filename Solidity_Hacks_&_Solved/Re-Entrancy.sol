@@ -3,7 +3,6 @@ pragma solidity ^0.8.10;
 /*
 EtherStore is a contract where you can deposit and withdraw ETH.
 This contract is vulnerable to re-entrancy attack.
-Let's see why.
 
 1. Deploy EtherStore
 2. Deposit 1 Ether each from Account 1 (Alice) and Account 2 (Bob) into EtherStore
@@ -16,7 +15,7 @@ What happened?
 Attack was able to call EtherStore.withdraw multiple times before
 EtherStore.withdraw finished executing.
 
-Here is how the functions were called
+Here is how the functions are called
 - Attack.attack
 - EtherStore.deposit
 - EtherStore.withdraw
