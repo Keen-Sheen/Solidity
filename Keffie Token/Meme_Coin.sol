@@ -1,9 +1,9 @@
 /**
- *Submitted for verification at BscScan.com on 2021-03-01
+ *Submitted for verification at BscScan.com on 20222-03-28
 */
 
 /**
- *Submitted for verification at BscScan.com on 2021-03-01
+ *Submitted for verification at BscScan.com on 2022-03-28
 */
 
 /**
@@ -14,7 +14,7 @@
    #Keffie features:
    3% fee auto add to the liquidity pool to locked forever when selling
    2% fee auto distribute to all holders
-   I created a black hole so #Bee token will deflate itself in supply with every transaction
+   I created a black hole so #KFT token will deflate itself in supply with every transaction
    50% Supply is burned at start.
    
  */
