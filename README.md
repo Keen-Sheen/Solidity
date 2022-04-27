@@ -6,7 +6,7 @@
 
 
 
-# Solidity language for Ethereum sSmart Contracts
+# Solidity Language for Ethereum Smart Contracts
 
 
 Solidity is a statically-typed curly-braces programming language designed for developing smart contracts
