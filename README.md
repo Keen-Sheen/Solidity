@@ -18,3 +18,4 @@ This repository will hold examples of using solidity code to display the use of:
 * Executing transactions
 * Making crypto wallets using Ganach & the Truffel Suite 
 * Launching Teste Net tokens on the Ethereum blockchain as well as BNB & AVAX
+* Creating NFT's
