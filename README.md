@@ -1,6 +1,6 @@
 # Solidity
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keen-Sheen)](https://github.com/Keen-Sheen/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Keen-Sheen&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-dark-mode-only)
 
 
 [![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Keen-Sheen&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/Keen-Sheen#gh-light-mode-only)
