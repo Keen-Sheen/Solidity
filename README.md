@@ -1,5 +1,8 @@
 # Solidity
 
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keen-Sheen)](https://github.com/Keen-Sheen/github-readme-stats)
+
+
 ![Ethereum in pool](Ethereum_Pool.png)
 
 
