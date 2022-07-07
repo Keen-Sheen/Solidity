@@ -17,7 +17,7 @@ Low:    5
         1101
         
        
-Below are the Smart Contract Weakness Classifications [Smart Contract Weakness](SWC)
+Below are the Smart Contract Weakness Classifications [Smart Contract Weakness](https://swcregistry.io/)
 
 -------------------
 
