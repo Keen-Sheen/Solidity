@@ -24,7 +24,7 @@ Below are the Smart Contract Weakness Classifications [Smart Contract Weakness](
 
 ## SWC-109: Uninitialized Storage Pointer
 Dangerous use of uninitialized storage variables.
-Uninitialized storage variables can point to unexpected storage locations. Initialize variable "_node" or set the storage attribute "memory".
+An uninitialized storage variables can point to unexpected storage locations. Initialize variable "_node" or set the storage attribute "memory".
 
 ### Severity: Medium
 
